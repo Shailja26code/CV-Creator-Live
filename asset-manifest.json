@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CV-Creator-Live/static/css/main.c7cc7c41.css",
+    "main.js": "/CV-Creator-Live/static/js/main.71c6fa59.js",
+    "static/media/Shailja.png": "/CV-Creator-Live/static/media/Shailja.a04258be2aa50fdbb579.png",
+    "static/media/SplineSans-Bold.ttf": "/CV-Creator-Live/static/media/SplineSans-Bold.07fe925ed2ae90a9f7ee.ttf",
+    "static/media/SplineSans-SemiBold.ttf": "/CV-Creator-Live/static/media/SplineSans-SemiBold.ef7e5503a6f0feb4089a.ttf",
+    "static/media/SplineSans-Regular.ttf": "/CV-Creator-Live/static/media/SplineSans-Regular.5864d8ad5dff9bb77199.ttf",
+    "static/media/SplineSans-Medium.ttf": "/CV-Creator-Live/static/media/SplineSans-Medium.119c03ad84d22e633b73.ttf",
+    "index.html": "/CV-Creator-Live/index.html",
+    "main.c7cc7c41.css.map": "/CV-Creator-Live/static/css/main.c7cc7c41.css.map",
+    "main.71c6fa59.js.map": "/CV-Creator-Live/static/js/main.71c6fa59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7cc7c41.css",
+    "static/js/main.71c6fa59.js"
+  ]
+}
